@@ -1,7 +1,7 @@
 # Hi there, I'm Gorka! 👋
 
 A passionate **Software Developer** student based in Bizkaia, Spain 🇪🇸.  
-Currently learning Java, object-oriented programming, and software architecture.
+Currently learning Java, C, object-oriented programming, and software architecture.
 
 ---
 
@@ -11,24 +11,22 @@ Currently learning Java, object-oriented programming, and software architecture.
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=GorkaSanSor&show_icons=true&theme=tokyonight&hide_border=true" alt="Gorka Stats" width="49%" />
-  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=GorkaSanSor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GorkaSanSor&show_icons=true&theme=tokyonight&hide_border=true" alt="Gorka Stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GorkaSanSor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="49%" />
 </p>
 
 ---
 
 ## 🚀 Projects & Learning
 - 🔭 I’m currently working on: **Java Core & OOP Fundamentals**
-- 🌱 I’m currently learning: **Java 27, Data Structures & Git Workflows**
-- 💬 Ask me about: **Java, C, IDE setup, and backend basics**
+- 🌱 I’m currently learning: **Java 27, C & Git Workflows**
+- 💬 Ask me about: **Java, C, and software basics**
 
 ---
 
