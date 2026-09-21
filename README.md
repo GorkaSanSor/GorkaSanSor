@@ -7,8 +7,8 @@ Currently learning Java, object-oriented programming, and software architecture.
 
 ## 🛠️ Tech Stack & Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GorkaSanSor&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -18,9 +18,9 @@ Currently learning Java, object-oriented programming, and software architecture.
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=GorkaSanSor&show_icons=true&theme=tokyonight&hide_border=true" alt="Gorka Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorkaSanSor&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=GorkaSanSor&show_icons=true&theme=tokyonight&hide_border=true" alt="Gorka Stats" width="49%" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=GorkaSanSor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="49%" />
 </p>
 
 ---
@@ -28,12 +28,12 @@ Currently learning Java, object-oriented programming, and software architecture.
 ## 🚀 Projects & Learning
 - 🔭 I’m currently working on: **Java Core & OOP Fundamentals**
 - 🌱 I’m currently learning: **Java 27, Data Structures & Git Workflows**
-- 💬 Ask me about: **Java, IDE setup, and backend basics**
+- 💬 Ask me about: **Java, C, IDE setup, and backend basics**
 
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 
 <!--
 **GorkaSanSor/GorkaSanSor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
