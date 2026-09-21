@@ -17,8 +17,8 @@ Currently learning Java, C, object-oriented programming, and software architectu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GorkaSanSor&show_icons=true&theme=tokyonight&hide_border=true" alt="Gorka Stats" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GorkaSanSor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GorkaSanSor&theme=tokyonight&hide_border=true" alt="Gorka Streak Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GorkaSanSor&theme=tokyonight" alt="Gorka Summary" width="49%" />
 </p>
 
 ---
