@@ -1,11 +1,11 @@
-# Hi there, I'm Gorka! 👋
+# ¡Hola! Soy Gorka 👋
 
-A passionate **Software Developer** student based in Bizkaia, Spain 🇪🇸.  
-Currently learning Java, C, object-oriented programming, and software architecture.
+Un estudiante apasionado del **Desarrollo de Aplicaciones Multiplataforma** afincado en Bizkaia, España.  
+Tengo conocimientos de C aprendidos en 42 Urduliz en 2024 y actualmente aprendiendo Java, programación orientada a objetos y arquitectura de software.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tecnologías y Herramientas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -14,23 +14,23 @@ Currently learning Java, C, object-oriented programming, and software architectu
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GorkaSanSor&theme=tokyonight&hide_border=true" alt="Gorka Streak Stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GorkaSanSor&theme=tokyonight" alt="Gorka Summary" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GorkaSanSor&theme=tokyonight&hide_border=true" alt="Estadísticas de racha de Gorka" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GorkaSanSor&theme=tokyonight" alt="Resumen de Gorka" width="49%" />
 </p>
 
 ---
 
-## 🚀 Projects & Learning
-- 🔭 I’m currently working on: **Java Core & OOP Fundamentals**
-- 🌱 I’m currently learning: **Java 27, C & Git Workflows**
-- 💬 Ask me about: **Java, C, and software basics**
+## 🚀 Proyectos y Aprendizaje
+- 🔭 Actualmente estoy trabajando en: **Fundamentos de Java Core y POO**
+- 🌱 Actualmente estoy aprendiendo: **Java 27, C y flujos de trabajo en Git**
+- 💬 Pregúntame sobre: **Java, C y fundamentos de software**
 
 ---
 
-## 📫 Connect with me
+## 📫 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 
 <!--
