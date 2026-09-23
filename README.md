@@ -21,10 +21,9 @@ Tengo conocimientos de C aprendidos en 42 Urduliz en 2024 y actualmente aprendie
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=GorkaSanSor&show_icons=true&theme=tokyonight&hide_border=false" height="200" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GorkaSanSor&layout=compact&theme=tokyonight&hide_border=false&hide=roff,perl" height="200" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=GorkaSanSor&show_icons=true&theme=tokyonight&hide_border=false" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GorkaSanSor&layout=compact&theme=tokyonight&hide_border=false&hide=roff,perl,makefile,shell&card_width=400" height="195" alt="Most Used Languages" />
 </p>
-
 ---
 
 ## 🚀 Proyectos y Aprendizaje
