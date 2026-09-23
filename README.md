@@ -18,12 +18,21 @@ Tengo conocimientos de C aprendidos en 42 Urduliz en 2024 y actualmente aprendie
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=GorkaSanSor&show_icons=true&theme=tokyonight&hide_border=false"
+    src="https://komarev.com/ghpvc/?username=GorkaSanSor&style=for-the-badge&color=0077b5"
+    alt="Vistas del perfil"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=GorkaSanSor&show_icons=true&theme=tokyonight&hide_border=false&card_width=450"
+    width="450"
     height="195"
     alt="My GitHub Statistics"
   />
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GorkaSanSor&layout=compact&theme=tokyonight&hide_border=false&hide=roff,perl&card_width=450&langs_count=8"
+    width="450"
     height="195"
     alt="My Programming Languages"
   />
