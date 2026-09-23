@@ -20,6 +20,8 @@ Tengo conocimientos de C aprendidos en 42 Urduliz en 2024 y actualmente aprendie
 
 <br/>
 
+![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GorkaSanSor&theme=tokyonight)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorkaSanSor&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </p>
