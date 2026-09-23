@@ -1,0 +1,20 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Entornos de desarrollo / IDEs
+.idea/
+.vscode/
+*.swp
+*.iml
+
+# Compilación y ejecutables
+bin/
+out/
+build/
+*.class
+*.o
+*.exe
+
+# Logs
+*.log
