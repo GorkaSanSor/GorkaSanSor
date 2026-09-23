@@ -17,8 +17,8 @@ Tengo conocimientos de C aprendidos en 42 Urduliz en 2024 y actualmente aprendie
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GorkaSanSor&theme=tokyonight&hide_border=true" alt="Estadísticas de racha de Gorka" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GorkaSanSor&theme=tokyonight" alt="Resumen de Gorka" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GorkaSanSor&theme=tokyonight&hide_border=true" alt="Estadísticas de racha de Gorka" width="39%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GorkaSanSor&theme=tokyonight" alt="Resumen de Gorka" width="59%" />
 </p>
 
 ---
