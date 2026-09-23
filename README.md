@@ -16,14 +16,12 @@ Tengo conocimientos de C aprendidos en 42 Urduliz en 2024 y actualmente aprendie
 
 ## 📈 Actividad y Estadísticas Dinámicas
 
-![Vistas del perfil](https://komarev.com/ghpvc/?username=GorkaSanSor&style=for-the-badge&color=0077b5)
-
-<br/>
-
-![Lenguajes más usados](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GorkaSanSor&theme=tokyonight)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GorkaSanSor&style=for-the-badge&color=0077b5" alt="Vistas del perfil" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GorkaSanSor&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GorkaSanSor&theme=tokyonight" alt="Lenguajes más usados" />
 </p>
 
 ---
