@@ -24,8 +24,9 @@ Tengo conocimientos de C aprendidos en 42 Urduliz en 2024 y actualmente aprendie
 ---
 
 ## 🚀 Proyectos y Aprendizaje
+- 🎓 **Porfolio Académico:** [Consultar Porfolio de DAM](./porfolio_academico) *(o enlace directo a la web: https://GorkaSanSor.github.io/porfolio_academico/)*
 - 🔭 Actualmente estoy trabajando en: **Fundamentos de Java Core y POO**
-- 🌱 Actualmente estoy aprendiendo: **Java 27, C y flujos de trabajo en Git**
+- 🌱 Actualmente estoy aprendiendo: **Java, C y flujos de trabajo en Git**
 - 💬 Pregúntame sobre: **Java, C y fundamentos de software**
 
 ---
