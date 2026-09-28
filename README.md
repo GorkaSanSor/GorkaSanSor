@@ -1,7 +1,7 @@
 # ¡Hola! Soy Gorka 👋
 
-Un estudiante apasionado del **Desarrollo de Aplicaciones Multiplataforma** afincado en Bizkaia, España.  
-Tengo conocimientos de C aprendidos en 42 Urduliz en 2024 y actualmente aprendiendo Java, programación orientada a objetos y arquitectura de software.
+Soy un estudiante de **Desarrollo de Aplicaciones Multiplataforma** afincado en Bizkaia, España.  
+Tengo conocimientos de C aprendidos en 42 Urduliz en 2024 y actualmente aprendiendo Java, programación orientada a objetos, Bases de datos y arquitectura de software.
 
 ---
 
@@ -33,7 +33,7 @@ Tengo conocimientos de C aprendidos en 42 Urduliz en 2024 y actualmente aprendie
 
 ## 🚀 Proyectos y Aprendizaje
 - 🎓 **Porfolio Académico:** [Consultar Porfolio de DAM](https://GorkaSanSor.github.io/porfolio_academico/)
-- 🔭 Actualmente estoy trabajando en: **Fundamentos de Java Core y POO**
+- 🔭 Actualmente estoy trabajando en: **Fundamentos de Java**
 - 🌱 Actualmente estoy aprendiendo: **Java, C y flujos de trabajo en Git**
 - 💬 Pregúntame sobre: **Java, C y fundamentos de software**
 
